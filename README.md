@@ -3,7 +3,7 @@
 ## Overview
 This project is a comprehensive exploration into parallel programming, emphasizing the use of a thread pool for efficient graph processing. The objective is to improve understanding of synchronization mechanisms, POSIX threading, and the comparison between serial and parallel execution methodologies.
 
-## src/ Directory Contents:
+## Content:
 
 ### Graph Handling (`os_graph.c`, `os_graph.h`)
 Implements functionalities for creating and managing graphs. Supports node and edge manipulations, facilitating graph traversals and data manipulation.
